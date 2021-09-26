@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/juicebiz/02-store.git/static/css/main.afd8fafd.chunk.css",
+    "main.js": "/juicebiz/02-store.git/static/js/main.00d789c3.chunk.js",
+    "main.js.map": "/juicebiz/02-store.git/static/js/main.00d789c3.chunk.js.map",
+    "runtime-main.js": "/juicebiz/02-store.git/static/js/runtime-main.c7ce0608.js",
+    "runtime-main.js.map": "/juicebiz/02-store.git/static/js/runtime-main.c7ce0608.js.map",
+    "static/js/2.1eb6c226.chunk.js": "/juicebiz/02-store.git/static/js/2.1eb6c226.chunk.js",
+    "static/js/2.1eb6c226.chunk.js.map": "/juicebiz/02-store.git/static/js/2.1eb6c226.chunk.js.map",
+    "static/js/3.7fed34c0.chunk.js": "/juicebiz/02-store.git/static/js/3.7fed34c0.chunk.js",
+    "static/js/3.7fed34c0.chunk.js.map": "/juicebiz/02-store.git/static/js/3.7fed34c0.chunk.js.map",
+    "index.html": "/juicebiz/02-store.git/index.html",
+    "static/css/main.afd8fafd.chunk.css.map": "/juicebiz/02-store.git/static/css/main.afd8fafd.chunk.css.map",
+    "static/js/2.1eb6c226.chunk.js.LICENSE.txt": "/juicebiz/02-store.git/static/js/2.1eb6c226.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/juicebiz/02-store.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ce0608.js",
+    "static/js/2.1eb6c226.chunk.js",
+    "static/css/main.afd8fafd.chunk.css",
+    "static/js/main.00d789c3.chunk.js"
+  ]
+}
