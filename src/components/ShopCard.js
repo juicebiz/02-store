@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'
 
 function ShopCard(props) {
     const item = props.product
-    console.log(item)
     return (
         <div className="card">
             <h3>{item.name}</h3>
@@ -18,7 +17,7 @@ function ShopCard(props) {
 }
 
 ShopCard.propTypes = {
-
+    product: PropTypes.object
 }
 
 export default ShopCard

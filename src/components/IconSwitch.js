@@ -14,7 +14,7 @@ function IconSwitch(props) {
 }
 
 IconSwitch.propTypes = {
-
+    icon: PropTypes.string
 }
 
 export default IconSwitch

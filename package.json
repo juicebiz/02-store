@@ -2,7 +2,7 @@
   "name": "02-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/juicebiz/02-store.git",
+  "homepage": "https://juicebiz.github.io/02-store/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -10,6 +10,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "shortid": "^2.2.16",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'
 
 function ShopItem(props) {
     const item = props.product
-    console.log(item)
     return (
         <div className="cardrow">
             <div className="image"><img src={item.img} alt={item.name}></img></div>
@@ -16,7 +15,7 @@ function ShopItem(props) {
 }
 
 ShopItem.propTypes = {
-
+    product: PropTypes.object
 }
 
 export default ShopItem
